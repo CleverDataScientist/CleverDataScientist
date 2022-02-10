@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nagalaxmi</h1>
 <h3 align="center">A Clever Data Scientist</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 - 🔭 I’m currently working on **Python Data Science**
 
