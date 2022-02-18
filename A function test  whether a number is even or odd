@@ -1,4 +1,4 @@
-# check if a number is odd or even.
+# A functionto test whether a number is even or odd.
 def num(x):
     if (x%2):
         print("even number")
